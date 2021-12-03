@@ -7,6 +7,7 @@ namespace Coba_git_lagi
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.Write("halo");
         }
     }
 }
